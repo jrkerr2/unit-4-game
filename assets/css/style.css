@@ -3,6 +3,12 @@ body {
     background-repeat: no-repeat;
 }
 
+img {
+    max-height: 100px;
+    max-width: 100px;
+
+}
+
 p, h1 {
     color: white;
 }
