@@ -9,12 +9,23 @@ img {
 
 }
 
-p, h1 {
+p {
     color: white;
+    font-size: 25px;
+}
+
+h1 {
+    color: lightcoral;
+    font-size: 50px;
+    font-weight: bolder;
+
 }
 
 .welcome {
     color: white;
+    font-size: 25px;
+    font-style: italic;
+
 }
 
 
@@ -23,14 +34,13 @@ p, h1 {
     display: flex;
     justify-content: space-between;
     align-items: center;    
-    background-color: #cccccc;
-
+    
 }
 
 .crystalbox {
-    border: 1px solid green;
     height: 200px;
     width: 200px;
+    font-weight: bold;
 
 }
 

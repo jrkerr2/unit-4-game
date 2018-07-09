@@ -7,7 +7,7 @@ var gameOver;
 var crystalImage;
 var crystal;
 var crystalRandom;
-var images = ["assets/images/image1.png", "assets/images/image2.jpg", "assets/images/image3.jpg","assets/images/image4.jpg"]
+var images = ["assets/images/image1.png", "assets/images/image2.jpg", "assets/images/image3.jpg","assets/images/image4.jpg"];
 
 function initGame() {
     cScore = 0;
